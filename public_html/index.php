@@ -1,3 +1,5 @@
 <?php
-// index.php content
-?>
+// Front controller
+
+// Load the application
+require 'app/bootstrap.php';
